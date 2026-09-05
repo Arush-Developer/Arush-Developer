@@ -42,12 +42,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arush-Developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+<img height="165" src="https://githubreadmestatsfast.vercel.app/api?username=Arush-Developer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165" src="https://github-readme-streak-stats.vercel.app?user=Arush-Developer&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <br><br>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arush-Developer&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="55%" src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=Arush-Developer&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
@@ -55,7 +55,7 @@
 
 </div>
 
-> **Note:** These widgets are served from a free, shared Vercel deployment maintained by the community. If they don't render, it's almost always a temporary rate-limit — refresh in a few minutes, or fork [`github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) and deploy your own copy for guaranteed uptime.
+> **Note:** The official `github-readme-stats.vercel.app` demo is currently paused by its maintainers, so this uses a community-run alternative instead. It should just work now — no setup needed.
 
 ---
 
