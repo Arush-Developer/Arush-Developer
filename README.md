@@ -91,7 +91,6 @@
 
 </div>
 
-> A live, self-hosted stats card is on the roadmap once a personal Vercel instance is deployed — the badges above pull directly from the GitHub API, so they never go down with a third-party demo.
 
 <br>
 
