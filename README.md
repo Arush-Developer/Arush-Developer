@@ -31,13 +31,37 @@
 
 ## About Me
 
-```yaml
-role:        Full Stack Developer & AI Enthusiast
-education:   B.Tech, Computer Science
-focus:       React · TypeScript · Node.js · Machine Learning
-currently:   Data Structures, System Design, ML
-philosophy:  "Build real things. Ship them. Iterate."
-```
+<table>
+<tr>
+<td width="180"><b>👨‍💻 Role</b></td>
+<td>Full Stack Developer & AI Enthusiast</td>
+</tr>
+
+<tr>
+<td><b>🎓 Education</b></td>
+<td>B.Tech, Computer Science</td>
+</tr>
+
+<tr>
+<td><b>⚡ Focus</b></td>
+<td>React · TypeScript · Node.js · Machine Learning</td>
+</tr>
+
+<tr>
+<td><b>📚 Currently Learning</b></td>
+<td>Data Structures · System Design · Machine Learning</td>
+</tr>
+
+<tr>
+<td><b>🚀 Building</b></td>
+<td>AI-powered applications & full-stack products</td>
+</tr>
+
+<tr>
+<td><b>💡 Philosophy</b></td>
+<td><i>"Build real things. Ship them. Iterate."</i></td>
+</tr>
+</table>
 
 <br>
 
@@ -75,22 +99,39 @@ philosophy:  "Build real things. Ship them. Iterate."
 
 <table width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🌐 IFG Website
-Full-stack website build — see repo for stack and details.
 
-**[→ View Repository](https://github.com/Arush-Developer/IFG-Website)**
+Full-stack website build — see the repository for the complete stack and implementation details.
+
+<br>
+
+<a href="https://github.com/Arush-Developer/IFG-Website">
+<img src="https://img.shields.io/badge/→_View_Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 💼 Portfolio
-Personal portfolio site, deployed live on Vercel.
 
-**[→ View Repository](https://github.com/Arush-Developer/Arush_Portfolio)** · **[→ Live Site](https://arushgportfolio.vercel.app/)**
+Personal developer portfolio built and deployed with a modern web stack.
+
+<br>
+
+<a href="https://github.com/Arush-Developer/Arush_Portfolio">
+<img src="https://img.shields.io/badge/→_Repository-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://arushgportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/→_Live_Site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </td>
+
 </tr>
 </table>
 
@@ -99,9 +140,9 @@ Personal portfolio site, deployed live on Vercel.
 ## Currently Working On
 
 - 🤖 AI-powered applications
-- 🌐 Full-stack web apps (React / Next.js / Node)
+- 🌐 Full-stack web apps with React / Next.js / Node.js
 - 📚 Data Structures & Algorithms
-- ⚙️ System design fundamentals
+- ⚙️ System Design fundamentals
 - 🚀 First open-source contributions
 
 <br>
